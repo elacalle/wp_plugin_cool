@@ -1,0 +1,2 @@
+msgid "text"
+msgstr "texto"
